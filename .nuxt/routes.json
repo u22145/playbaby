@@ -1,0 +1,347 @@
+[
+  {
+    "name": "deleted",
+    "path": "/deleted",
+    "component": "/Users/yi/playbaby/pages/deleted.vue",
+    "chunkName": "pages/deleted",
+    "_name": "_ac379300"
+  },
+  {
+    "name": "deposit",
+    "path": "/deposit",
+    "component": "/Users/yi/playbaby/pages/deposit.vue",
+    "chunkName": "pages/deposit",
+    "_name": "_46df5af6"
+  },
+  {
+    "name": "deposit-history",
+    "path": "/deposit-history",
+    "component": "/Users/yi/playbaby/pages/deposit-history.vue",
+    "chunkName": "pages/deposit-history",
+    "_name": "_f22cbc68"
+  },
+  {
+    "name": "earn",
+    "path": "/earn",
+    "component": "/Users/yi/playbaby/pages/earn.vue",
+    "chunkName": "pages/earn",
+    "_name": "_92c046fe"
+  },
+  {
+    "name": "earnmoney",
+    "path": "/earnmoney",
+    "component": "/Users/yi/playbaby/pages/earnmoney.vue",
+    "chunkName": "pages/earnmoney",
+    "_name": "_152e130f"
+  },
+  {
+    "name": "editInfo",
+    "path": "/editInfo",
+    "component": "/Users/yi/playbaby/pages/editInfo.vue",
+    "chunkName": "pages/editInfo",
+    "_name": "_48b83a01"
+  },
+  {
+    "name": "fans-list",
+    "path": "/fans-list",
+    "component": "/Users/yi/playbaby/pages/fans-list.vue",
+    "chunkName": "pages/fans-list",
+    "_name": "_3bec7832"
+  },
+  {
+    "name": "following-list",
+    "path": "/following-list",
+    "component": "/Users/yi/playbaby/pages/following-list.vue",
+    "chunkName": "pages/following-list",
+    "_name": "_6292ce7a"
+  },
+  {
+    "name": "forget_password",
+    "path": "/forget_password",
+    "component": "/Users/yi/playbaby/pages/forget_password.vue",
+    "chunkName": "pages/forget_password",
+    "_name": "_5115c214"
+  },
+  {
+    "name": "host-verify",
+    "path": "/host-verify",
+    "component": "/Users/yi/playbaby/pages/host-verify.vue",
+    "chunkName": "pages/host-verify",
+    "_name": "_c72f06b6"
+  },
+  {
+    "name": "invite",
+    "path": "/invite",
+    "component": "/Users/yi/playbaby/pages/invite.vue",
+    "chunkName": "pages/invite",
+    "_name": "_17b9321c"
+  },
+  {
+    "name": "invite-friend",
+    "path": "/invite-friend",
+    "component": "/Users/yi/playbaby/pages/invite-friend.vue",
+    "chunkName": "pages/invite-friend",
+    "_name": "_42983c89"
+  },
+  {
+    "name": "inviteFriend",
+    "path": "/inviteFriend",
+    "component": "/Users/yi/playbaby/pages/inviteFriend.vue",
+    "chunkName": "pages/inviteFriend",
+    "_name": "_43b2a330"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/yi/playbaby/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_e2f8d4e0"
+  },
+  {
+    "name": "my",
+    "path": "/my",
+    "component": "/Users/yi/playbaby/pages/my/index.vue",
+    "chunkName": "pages/my/index",
+    "_name": "_126a6150"
+  },
+  {
+    "name": "myWallet",
+    "path": "/myWallet",
+    "component": "/Users/yi/playbaby/pages/myWallet.vue",
+    "chunkName": "pages/myWallet",
+    "_name": "_5758266e"
+  },
+  {
+    "name": "papa",
+    "path": "/papa",
+    "component": "/Users/yi/playbaby/pages/papa.vue",
+    "chunkName": "pages/papa",
+    "_name": "_292be74b"
+  },
+  {
+    "name": "post",
+    "path": "/post",
+    "component": "/Users/yi/playbaby/pages/post/index.vue",
+    "chunkName": "pages/post/index",
+    "_name": "_4249cde8"
+  },
+  {
+    "name": "post-list",
+    "path": "/post-list",
+    "component": "/Users/yi/playbaby/pages/post-list.vue",
+    "chunkName": "pages/post-list",
+    "_name": "_54fa995c"
+  },
+  {
+    "name": "ranking",
+    "path": "/ranking",
+    "component": "/Users/yi/playbaby/pages/ranking.vue",
+    "chunkName": "pages/ranking",
+    "_name": "_5eb17c1d"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/yi/playbaby/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_40ead94c"
+  },
+  {
+    "name": "register-2",
+    "path": "/register-2",
+    "component": "/Users/yi/playbaby/pages/register-2.vue",
+    "chunkName": "pages/register-2",
+    "_name": "_a7f2b11e"
+  },
+  {
+    "name": "rule",
+    "path": "/rule",
+    "component": "/Users/yi/playbaby/pages/rule.vue",
+    "chunkName": "pages/rule",
+    "_name": "_144fdda5"
+  },
+  {
+    "name": "streamContainer",
+    "path": "/streamContainer",
+    "component": "/Users/yi/playbaby/pages/streamContainer.vue",
+    "chunkName": "pages/streamContainer",
+    "_name": "_42643048"
+  },
+  {
+    "name": "streamHome",
+    "path": "/streamHome",
+    "component": "/Users/yi/playbaby/pages/streamHome.vue",
+    "chunkName": "pages/streamHome",
+    "_name": "_5a6834e8"
+  },
+  {
+    "name": "streaming-client",
+    "path": "/streaming-client",
+    "component": "/Users/yi/playbaby/pages/streaming-client.vue",
+    "chunkName": "pages/streaming-client",
+    "_name": "_87bb6882"
+  },
+  {
+    "name": "streaming-host",
+    "path": "/streaming-host",
+    "component": "/Users/yi/playbaby/pages/streaming-host.vue",
+    "chunkName": "pages/streaming-host",
+    "_name": "_247d1e1c"
+  },
+  {
+    "name": "submitVerify",
+    "path": "/submitVerify",
+    "component": "/Users/yi/playbaby/pages/submitVerify.vue",
+    "chunkName": "pages/submitVerify",
+    "_name": "_2d0405da"
+  },
+  {
+    "name": "wallet",
+    "path": "/wallet",
+    "component": "/Users/yi/playbaby/pages/wallet.vue",
+    "chunkName": "pages/wallet",
+    "_name": "_3fcf93e2"
+  },
+  {
+    "name": "withdraw",
+    "path": "/withdraw",
+    "component": "/Users/yi/playbaby/pages/withdraw.vue",
+    "chunkName": "pages/withdraw",
+    "_name": "_07e12a33"
+  },
+  {
+    "name": "withdraw-history",
+    "path": "/withdraw-history",
+    "component": "/Users/yi/playbaby/pages/withdraw-history.vue",
+    "chunkName": "pages/withdraw-history",
+    "_name": "_bc12290c"
+  },
+  {
+    "name": "popup-popup-template",
+    "path": "/popup/popup-template",
+    "component": "/Users/yi/playbaby/pages/popup/popup-template.vue",
+    "chunkName": "pages/popup/popup-template",
+    "_name": "_adced032"
+  },
+  {
+    "name": "post-article",
+    "path": "/post/article",
+    "component": "/Users/yi/playbaby/pages/post/article.vue",
+    "chunkName": "pages/post/article",
+    "_name": "_97c22aa0"
+  },
+  {
+    "name": "post-papa",
+    "path": "/post/papa",
+    "component": "/Users/yi/playbaby/pages/post/papa.vue",
+    "chunkName": "pages/post/papa",
+    "_name": "_1f97bb50"
+  },
+  {
+    "name": "post-story",
+    "path": "/post/story",
+    "component": "/Users/yi/playbaby/pages/post/story.vue",
+    "chunkName": "pages/post/story",
+    "_name": "_74f01faf"
+  },
+  {
+    "name": "post-video",
+    "path": "/post/video",
+    "component": "/Users/yi/playbaby/pages/post/video.vue",
+    "chunkName": "pages/post/video",
+    "_name": "_5e700835"
+  },
+  {
+    "name": "share-agoraFunction",
+    "path": "/share/agoraFunction",
+    "component": "/Users/yi/playbaby/pages/share/agoraFunction.js",
+    "chunkName": "pages/share/agoraFunction",
+    "_name": "_f92750f0"
+  },
+  {
+    "name": "share-event-bus",
+    "path": "/share/event-bus",
+    "component": "/Users/yi/playbaby/pages/share/event-bus.js",
+    "chunkName": "pages/share/event-bus",
+    "_name": "_1940170b"
+  },
+  {
+    "name": "share-social",
+    "path": "/share/social",
+    "component": "/Users/yi/playbaby/pages/share/social.js",
+    "chunkName": "pages/share/social",
+    "_name": "_191dbbee"
+  },
+  {
+    "name": "host-verify-page-id",
+    "path": "/host-verify-page/:id?",
+    "component": "/Users/yi/playbaby/pages/host-verify-page/_id.vue",
+    "chunkName": "pages/host-verify-page/_id",
+    "_name": "_17669ddc"
+  },
+  {
+    "name": "my-id",
+    "path": "/my/:id",
+    "component": "/Users/yi/playbaby/pages/my/_id.vue",
+    "chunkName": "pages/my/_id",
+    "_name": "_30f4c7c0"
+  },
+  {
+    "name": "pagecomment-id",
+    "path": "/pagecomment/:id?",
+    "component": "/Users/yi/playbaby/pages/pagecomment/_id.vue",
+    "chunkName": "pages/pagecomment/_id",
+    "_name": "_789eaafc"
+  },
+  {
+    "name": "pageinfo-id",
+    "path": "/pageinfo/:id?",
+    "component": "/Users/yi/playbaby/pages/pageinfo/_id.vue",
+    "chunkName": "pages/pageinfo/_id",
+    "_name": "_6550bfde"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/yi/playbaby/pages/index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index-care",
+        "path": "care",
+        "component": "/Users/yi/playbaby/pages/index/care.vue",
+        "chunkName": "pages/index/care",
+        "_name": "_b0a7b9d2"
+      },
+      {
+        "name": "index-nearby",
+        "path": "nearby",
+        "component": "/Users/yi/playbaby/pages/index/nearby.vue",
+        "chunkName": "pages/index/nearby",
+        "_name": "_5feca805"
+      },
+      {
+        "name": "index-nearbyaction",
+        "path": "nearbyaction",
+        "component": "/Users/yi/playbaby/pages/index/nearbyaction.vue",
+        "chunkName": "pages/index/nearbyaction",
+        "_name": "_91bcd50a"
+      },
+      {
+        "name": "index-novel",
+        "path": "novel",
+        "component": "/Users/yi/playbaby/pages/index/novel.vue",
+        "chunkName": "pages/index/novel",
+        "_name": "_31fb62a6"
+      },
+      {
+        "name": "index-recommend",
+        "path": "recommend",
+        "component": "/Users/yi/playbaby/pages/index/recommend.vue",
+        "chunkName": "pages/index/recommend",
+        "_name": "_a9ccb7b4"
+      }
+    ],
+    "_name": "_76481b0e"
+  }
+]
